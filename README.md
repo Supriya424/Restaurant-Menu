@@ -1,4 +1,2 @@
-# project_demo1
-This is my first git respitory
-<br>
-Supriya(college)
+A Project of web based restaurant menu using HTML and CSS
+Designed and implemented user interface showcasing menu categories, item description and pricing.
