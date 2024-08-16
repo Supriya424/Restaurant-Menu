@@ -1,0 +1,164 @@
+.home{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+    box-sizing: border-box;
+    width: 100%;
+    background-image: image-set("tiffin2.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: white;
+
+}
+.hero{
+    background-color: rgba(24, 26, 25, 0.651);
+    padding: 5px 5px 5px 5px;
+    top: 0;
+    left: 0;
+    position: fixed;
+    width: 100%;
+
+}
+.hero ul{
+    list-style: none;
+}
+.hero ul li{
+    padding-right: 30px;
+    display: inline-block;
+}
+.hero ul li a{
+    color: white;
+}
+.bmenu{
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-sizing: border-box;
+    width: 100%;
+    background-color: rgba(10, 228, 217, 0.226);
+}
+.homemain{
+    text-align: center;
+    font-size: larger;
+    padding-top: 200px;
+    
+}
+.homemain h1{
+    color:rgb(235, 250, 28);
+}
+.homemain h3{
+    color: white;
+}
+footer{
+    background-color: black;
+    padding:3px 3px 3px 3px;
+    bottom: 0;
+    left: 0;
+    position: fixed;
+    width: 100%;
+    color: white;
+}
+.menumain{
+    text-align: center;
+    padding-top: 50px;
+
+}
+.menu ul li{
+    display: inline-block;
+    text-align: center;
+}
+.menu ul li img{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    padding: 3px 10px 3px 10px;
+}
+.babout{
+    background-color: rgba(243, 138, 17, 0.849);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.about{
+    text-align: center;
+    font-size: larger;
+    padding-top: 50px;
+    color: white;
+
+    
+}
+.aboutd{
+    text-align: left;
+}
+.aboutd img{
+    width: 70%;
+    height:600px;
+    display: block;
+    margin-left: auto;
+   margin-right: auto;
+    
+}
+.contact{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: blanchedalmond;
+}
+
+.contactmain{
+    text-align: center;
+    width: 70%;
+    margin-left: auto;
+   margin-right: auto;
+   padding-top: 50px;
+    
+   
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.image img{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+.contactd{
+    
+    text-align: left;
+    padding-left: 15%;
+}
+
+main input{
+    width: 70%;
+    height: 40px;
+    margin: 20px;
+    display: block;
+    margin-left: auto;
+   margin-right: auto;
+}
+main input[type=submit]:hover{
+    background-color: brown;
+}
+.dosa_container{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.dosa{
+    width: 200px;
+    height: 300px;
+    border-style: ridge;
+    margin-right: 20px;
+    margin-top: 20px;
+    
+    
+    
+}
+.dosac{
+    text-align: center;
+    padding-top: 50px;
+}
+.dosa img{
+    width: 200px;
+    height: 200px;
+    
+
+}
